@@ -3,6 +3,11 @@
 
 Writes a single short funny line to /output/entry.txt (1-200 characters).
 Deterministic: the same line every run.
+
+The joke works as a deadpan legalistic defense: the vacuum cites a
+fictional user-manual clause ("section 4") to justify eating the sock,
+treating a household mishap with bureaucratic solemnity. The humor is
+in that tone — a robot arguing case law over a missing sock.
 """
 
 import os
